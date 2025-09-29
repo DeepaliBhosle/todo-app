@@ -1,2 +1,7 @@
-tasks.json
+.venv/
 __pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+
