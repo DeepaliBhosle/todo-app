@@ -24,3 +24,5 @@ python app.py
 
 ##  Live Demo
 [Click Here](https://todo-app-ha60.onrender.com/)
+<img width="489" height="246" alt="todo-app " src="https://github.com/user-attachments/assets/9564b62a-45d7-49f2-b384-e4fe3a919ba9" />
+<img width="487" height="286" alt="my-todo-app" src="https://github.com/user-attachments/assets/e4756231-c0a9-45da-ab04-df100f6c97cd" />
